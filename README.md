@@ -1,5 +1,5 @@
-# CrystalPlasticity
-CP UMAT and CZM UEL for Abaqus full details in: https://doi.org/10.1016/j.ijsolstr.2024.113110 
+# CP
+full details in: https://doi.org/10.1016/j.ijsolstr.2024.113110 
 
 The latest version of single crystal solver
 
@@ -17,19 +17,7 @@ PROPS(5): material-ID
 
 PROPS(6): "0" for using usermaterials.f / "1" for manual entry to PROPS
 
-
 The user entries are given in userinputs.f / useroutputs.f / usermaterial.f files
-
-
-Video Tutorials
-1. Single crystal uniaxial test: https://youtu.be/T1bCw61qMLw
-
-2. Dream3D2Abaqus polycrytal plasticity: https://youtu.be/s0r0Tgjc7Io
-   
-3.a. Neper polycrystal mesh generation: https://youtu.be/zAH1m9wIT_4
-
-3.b. Neper2Abaqus polycrystal plasticity: https://youtu.be/FfixSufVZ30
-
 
 
 References for the solver:
